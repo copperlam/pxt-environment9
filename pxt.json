@@ -1,0 +1,14 @@
+{
+    "name": "Environment",
+    "version": "0.0.1",
+    "description": "Environment for DHT11",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+    ],
+    "public": true
+}
