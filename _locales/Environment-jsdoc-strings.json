@@ -1,0 +1,5 @@
+{
+  "Environment": "Custom blocks",
+  "Environment.temperature": "get TMP36 Temperature(℃)\n\n\nget dht11 temperature and humidity Value",
+  "Environment.temperature|param|dht11pin": "describe parameter here, eg: DigitalPin.P15     "
+}

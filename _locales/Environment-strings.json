@@ -1,0 +1,8 @@
+{
+  "Environment.DHT11Type.DHT11_humidity|block": "humidity(0~100)",
+  "Environment.DHT11Type.DHT11_temperature_C|block": "temperature(℃)",
+  "Environment.DHT11Type.DHT11_temperature_F|block": "temperature(℉)",
+  "Environment.temperature|block": "value of dht11 %dht11type| at pin %dht11pin",
+  "Environment|block": "Environment",
+  "{id:category}Environment": "Environment"
+}

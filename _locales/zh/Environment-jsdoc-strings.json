@@ -1,0 +1,5 @@
+{
+  "Environment": "環境",
+  "Environment.temperature": "讀取溫度(℃)\n\n\n取得 dht11 溫度與溼度值",
+  "Environment.temperature|param|dht11pin": "腳位參數說明, 例如: DigitalPin.P15     "
+}
